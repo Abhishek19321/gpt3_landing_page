@@ -1,4 +1,4 @@
-# GPT-3  Landing page 
+# GPT-3  **LANDING PAGE** 
  **Translated Figma design into a functional and interactive ReactJS application.**
  
  *HEADER*
