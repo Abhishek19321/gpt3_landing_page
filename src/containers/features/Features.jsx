@@ -5,19 +5,19 @@ import './features.css';
 const featuresData = [
   {
     title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    text: 'GPT-3: Bridging the Gap, Rebuilding Trust, Instantly. Where Trustworthiness Meets Timeliness. Reignite Trust with GPT-3: Your Instant Truth Detector.',
   },
   {
     title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    text: 'Your Proactive Partner in Innovation - Where Ideas Flourish! Awaken Possibilities with GPT-3: Your Active Ally for Achievement.',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'AI is future',
+    text: 'AI is not just a technology; its the roadmap to the future. Where science fiction meets the futures reality. The future is bright, and its powered by AIs brilliance.',
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'Empowering Youth',
+    text: 'Where the Energy of Youth Meets the Intelligence of AI. The Future Belongs to Youth and AI: Unleash the Potential!Together, We Illuminate Tomorrow.',
   },
 ];
 
